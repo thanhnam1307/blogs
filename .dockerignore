@@ -1,4 +1,5 @@
-venv/
+.venv/
 _pycache_/
 *.sqlite3
-.env # new
+.git
+.env
